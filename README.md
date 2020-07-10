@@ -4,9 +4,9 @@ In this project, a method to classify the chracteristics of a series of numerica
 
 ## Training Dataset
 
-The NN was trained with three classes of charactateristics - in this case the equations of parabola, circle an a straight line. All available parameters in these equations are being feed with random values within a predefined range. The script "curve_dataset_generator.ipynb" calculates 1000 training/validation samples and 10 test samples of each equation type.
+The NN was trained with three classes of charactateristics - in this case the equations of parabola, circle and a straight line. All available parameters in these equations are being feed with random values within a predefined range. The script "curve_dataset_generator.ipynb" calculates 1000 training/validation samples and 10 test samples of each equation type.
 
-![Three samples](/3samples.png)
+![Three samples](/3Samples.png)
 
 ## Notes for usage and adaption
 
